@@ -1,0 +1,15 @@
+.main-menu{
+    @apply py-5 bg-[#608BC1]
+}
+.menu-row{
+    @apply flex justify-between
+}
+.logo h1{
+    @apply text-[40px] font-bold text-[#FFCCEA]
+}
+.main-nav ul{
+    @apply flex gap-5
+}
+.main-nav ul li a{
+    @apply text-[30px] font-bold text-[#CC2B52]
+}
